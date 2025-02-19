@@ -1,7 +1,7 @@
 ```
 Address: Bashundhara R/A, Dhaka, Bangladesh
 E-mail: najmulhoq95@gmail.com
-Cell-Phone:(+880) 1 754689260
+Cell-Phone:(+880)1754689260
 ```
 ```
 Linkedin: https://www.linkedin.com/in/hoq-najmul/
@@ -50,10 +50,10 @@ SaaS model for banking management systems. #Angular #.NET
 5. **DGFood:** The Directorate General of Food is an automation system of the 
 government of Bangladesh and It manages the food supply in Bangladesh.
 6. **Shuttle Bangladesh:**  I work on this project as a lead and develop the backend 
-and frontend of both of the projects.
+and front end of both of the projects.
 7. **Shuttle Cockpit (B2C System):** A ride-sharing service that includes 
 monthly advance/live ride booking, payment processing, driver location 
-tracking, booking cancellation, and a checkout system.
+tracking, booking cancellations, and a checkout system.
 8. **Follow-up Dashboard:** Developed a dashboard replicating spreadsheet 
 filter mechanisms with dynamic filters offering 15 different combinations. 
 9. **Shuttle Jatrikoi:** A customer acquisition automation service designed to 
@@ -79,11 +79,11 @@ using vue, SCSS, HTML, and JavaScript. It’s for a developer who is looking for
 structure template for their project.
 13. **Priority Management System:** (PHP, JavaScript, Laravel, MySQL, 
 Bootstrap4) Priority Management System is an integrated and automated 
-software system for NSU canteen. With this system, Student will easily get their 
+software system for the NSU canteen. With this system, Student will easily get their 
 token for food orders.
 14. **Buyer and Street Vendor Communication Order Service:** To design 
 and develop this website; JavaScript, JQuery, Ajax, HTML5, CSS3, Bootstrap 
-are used for front-end; PHP, Laravel, MySQL database are used for back
+are used for front-end; PHP, Laravel, and MySQL databases are used for back
 end.
 15. **Cable Operator Management System:** (JavaScript, MySQL, Laravel, 
 PHP, Bootstrap 4) Cable Operator Management System is integrated and 
@@ -109,21 +109,21 @@ Django, gFlow
 
 1. **Final Year Project**
 Smart Eyeglass for Visually Impaired People using Raspberry Pi:
-(Python, Machine Learning, Deep learning, OCR)
-Developed programs to detect objects by Tensorflow, and recognize fac of known
+(Python, Machine Learning, Deep Learning, OCR)
+Developed programs to detect objects by Tensorflow, and recognize faces of known
 people by Haar cascade algorithm, read printed text by OCR, and send voice
 instruction by TTS. Github
 **Supervisor: Mirza Mohammad Lutfe Elahi**
 2. **Junior Design Project**
 Illegal Border Crossing Detection with Surveillance Camera:
-(JavaScript, Heroku Cloud, Jav,a and C)
+(JavaScript, Heroku Cloud, Java and C)
 Illegal border crossing detection with surveillance cameras can improve
 privacy, safety and illegally crossing the border. These systems detect and
-localize humans and recognize the face of known and unknown people.
+localize humans and recognize the faces of known and unknown people.
 Then information is sent to the server from the hardware device. In addition,
 this system will give feedback to the security monitor system. Human
 detection is known by object detection API. Using tensor flow object detection
-API, detects humans. This device can easily monitor long borders without
+API detects humans. This device can easily monitor long borders without
 requiring any human assistance. Github
 **Supervisor: Dr. Md. Mahfuzur Rahman (MMR4)**
 
