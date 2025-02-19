@@ -1,52 +1,45 @@
-# NAJMUL HOQ
-
 ```
 Address: Bashundhara R/A, Dhaka, Bangladesh
 E-mail: najmulhoq95@gmail.com
 Cell-Phone:(+880) 1 754689260
 ```
 ```
-linkedin.com/Najmul-Hoq
-github.com/Najmul-Hoq
-hackerrank.com/Najmul-Hoq
+Linkedin: https://www.linkedin.com/in/hoq-najmul/
+Github: https://github.com/najmul-github
+Hackerrank: https://www.hackerrank.com/profile/najmul95
 ```
-```
-About Passionate about learning new things and being up to date with the latest
+
+About 
+
+Passionate about learning new things and being up to date with the latest
 technologies.
-```
-```
-Work Experience Assistant Manager/Software Engineer
+
+Work Experience 
+
+Assistant Manager/Software Engineer
 Giga Tech Limited
-```
-```
 Feb 2024 - Present
-```
-```
+
 Software Engineer
 Patrons Venture Limited
-```
-```
 Dec 2023 – Feb 2024
-```
-```
+
 Specialist, Software Engineering Jun 2024 - Nov 2024
 Shuttle Technologies Limited
-```
-```
+
 Intern, Software Engineer Jan 2024 - May 2024
 Shuttle Technologies Limited
-```
-```
-Packages 1. A PHP package to generate and verify which is pub.php-pack
-Projects 1. TalkGPT: TalkGPT is an iOS and Android app designed to enhance users'
+
+
+Packages: A PHP package to generate and verify which is pub.php-pack
+
+Projects: 
+1. TalkGPT: TalkGPT is an iOS and Android app designed to enhance users'
 conversational skills through audio interactions. With TalkGPT, users can
 engage in simulated conversations similar to ChatGPT, receive feedback on
 their performance, and access their chat history for review. The app also
 offers specialized features for interview preparation and travel scenarios,
 making it a comprehensive tool for improving communication abilities in
-```
-various contexts. (^)
-
 2. Mekumi(EdTech): Mekumi^ is an online platform designed for managing
 courses, assignments, and user roles in an educational context. The system
 was developed based on initial designs provided by Mekumi, with additional
@@ -108,33 +101,18 @@ automation software system for cable operators. Github
 The project is developed to prohibit illegal border crossing and safety. This
 junior design project is to develop with a team for academic purpose. Github
 
-```
-Programming
-Languages
-```
-```
-: JavaScript, PHP, Python
-```
-```
-Databases : MySQL, SQLite, MariaDB
-```
-```
+Programming Languages: JavaScript, PHP, Python
+
+Databases: MySQL, SQLite, MariaDB
+
 Tools &
-Technologies
-```
-```
-Frameworks &
-Libraries
-```
-```
-: Git, Docker, AWS, Datadog, Redis, Shopify, Digital
+Technologies: Git, Docker, AWS, Datadog, Redis, Shopify, Digital
 Ocean, Postman, Google Map, Clean Architecture,
 S.O.L.I.D
-```
-```
-: Laravel, Lumen, Vue JS, AngularJS, Nuxt.js, React.js,
+
+Frameworks &
+Libraries: Laravel, Lumen, Vue JS, AngularJS, Nuxt.js, React.js,
 Django, gFlow
-```
 
 B.Sc. Capstone
 Design Project
@@ -159,31 +137,25 @@ API, it detects humans. This device can easily monitor long borders without
 requiring any human assistance. Github
 Supervisor: Dr. Md. Mahfuzur Rahman (MMR4)
 
-Education North South University, Dhaka, Bangladesh May 2015 – Dec 2019
+Education
+
+North South University, Dhaka, Bangladesh May 2015 – Dec 2019
 B.Sc. in Computer Science and Engineering
 CGPA - 3.00 out of 4.00 (83-86% Marks). Passing Year: 2019
 
-```
 Hamdard Public College, Dhaka, Bangladesh 2011 - 2012
 Higher Secondary Certificate
 GPA - 4. 90 out of 5 00. Passing Year: 2013
-```
-Courses
 
-```
 Bakail High School, Brahmanbaria, Bangladesh 2006 - 2010
 Secondary School Certificate
 GPA - 4.7 5 out of 5 00. Passing Year: 2011
-```
-```
-Clean Architecture : Udemy
-```
-Linguistic
-Proficiency
 
-```
-English, Bengali
-```
-Interests Traveling,^ YouTube Vlogging^
+Courses: Clean Architecture: Udemy
+
+Linguistic
+Proficiency: English, Bengali
+
+Interests: Traveling, YouTube Vlogging
 
 
