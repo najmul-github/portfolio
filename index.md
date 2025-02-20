@@ -34,7 +34,7 @@ engage in simulated conversations similar to ChatGPT, receive feedback on
 their performance, and access their chat history for review. The app also 
 offers specialized features for interview preparation and travel scenarios, 
 making it a comprehensive tool for improving communication abilities in 
-various contexts.
+various contexts. #PHP #JavaScript #Python
 2. **Mekumi(EdTech):** Mekumi is an online platform designed for managing 
 courses, assignments, and user roles in an educational context. The system 
 was developed based on initial designs provided by Mekumi, with additional 
@@ -44,53 +44,53 @@ Corely contributed to the USA and Japan-based online educational platform
 Mekumi Ed. #PHP #Laravel #Vue.js.
 3. **IFIC EKYC(FinTech):** Developed the onboarding system for IFIC Bank, 
 focusing on automating the customer registration process, and enhancing 
-data security. #Python #Django 
+data security. #JavaScript #Python #Django 
 4. **Archiving Service (SAAS Model):** Key contributor to Archiving Service a 
-SaaS model for banking management systems. #Angular #.NET 
+SaaS model for banking management systems. #JavaScript #Angular #.NET 
 5. **DGFood:** The Directorate General of Food is an automation system of the 
-government of Bangladesh and It manages the food supply in Bangladesh.
+government of Bangladesh and It manages the food supply in Bangladesh. #PHP #Laravel #JavaScript
 6. **Shuttle Bangladesh:**  I work on this project as a lead and develop the backend 
-and front end of both of the projects.
-7. **Shuttle Cockpit (B2C System):** A ride-sharing service that includes 
+and front end of both of the projects. #PHP #Laravel #JavaScript #VueJs
+7. **Shuttle Cockpit (B2C System):** A ride-sharing service includes 
 monthly advance/live ride booking, payment processing, driver location 
-tracking, booking cancellations, and a checkout system.
+tracking, booking cancellations, and a checkout system. #PHP #Laravel #JavaScript
 8. **Follow-up Dashboard:** Developed a dashboard replicating spreadsheet 
-filter mechanisms with dynamic filters offering 15 different combinations. 
+filter mechanisms with dynamic filters offering 15 combinations. #PHP #Laravel #JavaScript #VueJs 
 9. **Shuttle Jatrikoi:** A customer acquisition automation service designed to 
 onboard potential customers registered through campaigns, social platforms, 
 or the website. In this system, customer acquisition managers assign tasks to 
 customer acquisition officers. Officers then contact customers, update 
 customer statuses, add remarks, record call durations, and document other 
-feedback-related information.  
+feedback-related information. #PHP #Laravel #JavaScript #VueJs
 10. **Shuttle Shohoz:** A customer operation service providing operational 
 tools for users, including booking details, booking cancellations, status 
 updates, trip manager assignments, car location tracking, issue updates 
 from customers, trip manager activities, SMS to customers, role 
 permission updates, and promo service management. Engineered 20 
 REST APIs for live booking, resulting in a 5% increase in customer 
-bookings and a 7% reduction in technical payments and booking issues. 
+bookings and a 7% reduction in technical payments and booking issues.#PHP #Laravel #JavaScript #VueJs
 11. **Shuttle User Service:** A centralized user login and management 
 service that handles authentication for customers and internal users. 
 Engineered this dynamic user microservice, effectively managing real-time 
 login and registration for over 5,000 active customers through SMS and 
-OTP.  
+OTP. #PHP #Laravel  
 12. **Vue Template:** Vue template is a standard template that is developed 
 using vue, SCSS, HTML, and JavaScript. It’s for a developer who is looking for a 
-structure template for their project.
+structure template for their project.#JavaScript #VueJs
 13. **Priority Management System:** (PHP, JavaScript, Laravel, MySQL, 
 Bootstrap4) Priority Management System is an integrated and automated 
 software system for the NSU canteen. With this system, Student will easily get their 
-token for food orders.
+token for food orders. #PHP #Laravel #JavaScript
 14. **Buyer and Street Vendor Communication Order Service:** To design 
 and develop this website; JavaScript, JQuery, Ajax, HTML5, CSS3, Bootstrap 
 are used for front-end; PHP, Laravel, and MySQL databases are used for back
-end.
+end.#PHP #Laravel #JavaScript
 15. **Cable Operator Management System:** (JavaScript, MySQL, Laravel, 
 PHP, Bootstrap 4) Cable Operator Management System is integrated and 
-automation software system for cable operators.
+automation software system for cable operators.#PHP #Laravel #JavaScript
 16. **Grocery site (eCommerce):** (JavaScript, Heroku Cloud, Java, and C) 
 The project is developed to prohibit illegal border crossing and safety. This 
-junior design project is to develop with a team for academic purposes.
+junior design project is to develop with a team for academic purposes. #JavaScript #VueJs
 
 **Skills & Expertise**
 
