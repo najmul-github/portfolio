@@ -136,12 +136,12 @@ CGPA - 3.00 out of 4.00 (83-86% Marks) - Passing Year: 2019
 
 **Hamdard Public College**, Dhaka, Bangladesh - Higher Secondary Certificate - (2011 - 2012)
 
-GPA - 4. 90 out of 5 00 - Passing Year: 2013
+GPA - 4.90 out of 5.00 - Passing Year: 2013
 
 
 **Bakail High School**, Brahmanbaria, Bangladesh - Secondary School Certificate - (2006 - 2010)
 
-GPA - 4.7 5 out of 5 00 - Passing Year: 2011
+GPA - 4.75 out of 5.00 - Passing Year: 2011
 
 
 **Courses:** Clean Architecture: Udemy
