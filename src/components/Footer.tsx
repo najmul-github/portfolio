@@ -74,7 +74,7 @@ const Footer = () => {
                   <ArrowUpRight size={18} className="group-hover/btn:translate-x-0.5 group-hover/btn:-translate-y-0.5 transition-transform" />
                 </Link>
                 <Link
-                  href="https://najmulHoq-portfolio.vercel.app/NajmulHoq.pdf"
+                  href="https://najmulhoq.vercel.app/NajmulHoq.pdf"
                   target="_blank"
                   className="w-full py-3 bg-white/5 border border-white/10 text-white rounded-xl font-bold hover:bg-white/10 transition-all flex items-center justify-center gap-2"
                 >

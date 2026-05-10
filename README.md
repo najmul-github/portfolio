@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 
 ## 🚀 Live Demo
 
-[View Portfolio](https://najmul-portfolio.vercel.app)
+[View Portfolio](https://najmulhoq.vercel.app)
 
 ## 🛠️ Tech Stack
 
@@ -164,8 +164,8 @@ najmul_portfolio/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/najmul_portfolio.git
-   cd najmul_portfolio
+   git clone https://github.com/najmul-github/portfolio.git
+   cd portfolio
    ```
 
 2. **Install dependencies**

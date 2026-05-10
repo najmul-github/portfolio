@@ -154,7 +154,7 @@ const Contact = () => {
                     Open Mailbox <Send size={18} />
                   </Link>
                   <Link 
-                    href="https://NajmulHoq-portfolio.vercel.app/NajmulHoq.pdf"
+                    href="https://najmulhoq.vercel.app/NajmulHoq.pdf"
                     target="_blank"
                     className="flex items-center justify-center gap-3 py-6 bg-black/40 border border-white/10 text-white font-bold rounded-[2rem] hover:bg-black transition-all group"
                   >

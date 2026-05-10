@@ -105,7 +105,7 @@ const Home = () => {
                 <Link href="/contact" className="w-full sm:w-auto group px-8 py-4 bg-white text-black rounded-2xl font-bold transition-all hover:bg-purple-500 hover:text-white flex justify-center items-center gap-3">
                   Say Hello <ArrowRight size={18} />
                 </Link>
-                <Link href="https://najmulHoq-portfolio.vercel.app/NajmulHoq.pdf" target="_blank" className="w-full sm:w-auto px-8 py-4 bg-transparent border border-gray-800 rounded-2xl font-bold hover:bg-white/5 flex justify-center items-center gap-3 text-gray-300">
+                <Link href="https://najmulhoq.vercel.app/NajmulHoq.pdf" target="_blank" className="w-full sm:w-auto px-8 py-4 bg-transparent border border-gray-800 rounded-2xl font-bold hover:bg-white/5 flex justify-center items-center gap-3 text-gray-300">
                   <Download size={18} /> View Resume
                 </Link>
               </div>
