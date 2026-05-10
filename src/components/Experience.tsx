@@ -13,7 +13,7 @@ const careerTimeline = [
     technologies: ["PHP Laravel", "Lumen", "Python Django", "Vue.js", "Angular", ".NET"],
     responsibilities: [
       "Architected the EKYC digital onboarding for IFIC Bank, prioritizing zero-trust data security and process automation.",
-      "Revamped structural cores for 3 high-impact enterprise projects, optimizing Mekumi EdTech's global API logic.",
+      "Revamped structural cores for 3 high-impact enterprise projects, optimizing Mekumi EdTech&apos;s global API logic.",
       "Engineered national logistics frameworks for DGFood, ensuring real-time supply chain synchronization.",
       "Developed secure SaaS archiving models for banking management networks and biometric fingerprint applications."
     ],

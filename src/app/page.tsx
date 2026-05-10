@@ -26,7 +26,7 @@ const Home = () => {
         <div className="relative z-10 px-4 sm:px-8 md:px-12 lg:px-28 max-w-7xl mx-auto pt-16 md:pt-24 pb-20 md:pb-32">
           {/* Flex direction changes to col-reverse on mobile to put text first or col for profile first. 
               Here we use flex-col (Profile top) for better mobile visual impact or flex-col-reverse (Text top). 
-              Let's go with flex-col-reverse for mobile text readability. */}
+              Let&apos;s go with flex-col-reverse for mobile text readability. */}
           <div className="flex flex-col-reverse lg:flex-row items-center gap-12 lg:gap-16">
             
             {/* Left Column: Authority & Impact */}

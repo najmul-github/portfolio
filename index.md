@@ -28,7 +28,7 @@ Passionate about learning new things and being updated with the latest technolog
 
 **Projects**
 
-1. **TalkGPT:**  TalkGPT is an iOS and Android app designed to enhance users' 
+1. **TalkGPT:**  TalkGPT is an iOS and Android app designed to enhance users&apos; 
 conversational skills through audio interactions. With TalkGPT, users can 
 engage in simulated conversations similar to ChatGPT, receive feedback on 
 their performance, and access their chat history for review. The app also 

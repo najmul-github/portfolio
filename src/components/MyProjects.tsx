@@ -239,7 +239,7 @@ const MyProjects = () => {
             Looking for Production-Grade Scalability?
           </h3>
           <p className="text-gray-600 text-lg mb-6 max-w-2xl mx-auto leading-relaxed">
-            Let's design clean APIs, structure microservices, or speed up processing loops. 
+            Let&apos;s design clean APIs, structure microservices, or speed up processing loops. 
             I am prepared to architect next-generation software structures.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
