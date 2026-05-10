@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import React from "react";
-import { ArrowRight, ExternalLink, Github, Layers, ShieldCheck, Zap, Cpu, Globe, Lock } from "lucide-react";
+import { ArrowRight, ExternalLink, Github, Layers, ShieldCheck, Zap, Cpu } from "lucide-react";
 
 const featuredProjects = [
   {

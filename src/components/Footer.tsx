@@ -2,7 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
-import { Download, Terminal, Cpu, Globe, ArrowUpRight, Github, Linkedin, Mail } from "lucide-react";
+import { Download, ArrowUpRight, Github, Linkedin, Mail } from "lucide-react";
 import Menubar from "./Menubar"; // Assuming these exist
 import SocialsMenu from "./SocialsMenu";
 

@@ -5,7 +5,7 @@ import Experience from "@/components/Experience";
 import Myplace from "@/components/Myplace";
 import MyStory from "@/components/MyStory";
 import { 
-  User, Target, Award, Code2, Zap, ShieldCheck, 
+  Target, Code2, Zap, ShieldCheck, 
   Binary, Cpu, Globe2, Fingerprint, Activity,
   Database
 } from "lucide-react";

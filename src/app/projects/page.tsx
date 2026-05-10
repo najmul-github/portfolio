@@ -3,7 +3,7 @@
 import React from "react";
 import MyProjects from "@/components/MyProjects";
 import { 
-  Code, Sparkles, Zap, Shield, Lock, 
+  Zap, Shield, Lock, 
   Terminal, Database, Activity, Share2, 
   ChevronRight, Layers, Fingerprint
 } from "lucide-react";

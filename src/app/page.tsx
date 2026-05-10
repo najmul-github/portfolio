@@ -1,6 +1,6 @@
 "use client";
 
-import { Download, ArrowRight, Globe, Zap, ShieldCheck, Activity, Award, Terminal, Layout, Database } from "lucide-react";
+import { Download, ArrowRight, Globe, Zap, ShieldCheck, Activity, Terminal, Layout, Database } from "lucide-react";
 import Image from "next/image";
 import profileImg from "../../public/profile.png";
 import Link from "next/link";

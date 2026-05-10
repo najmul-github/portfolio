@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { Calendar, MapPin, Briefcase, Award, Zap, ShieldCheck, Database, Layers } from "lucide-react";
+import { Zap, ShieldCheck, Database, Layers } from "lucide-react";
 
 const careerTimeline = [
   {

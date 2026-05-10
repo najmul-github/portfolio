@@ -2,9 +2,8 @@
 
 import React from "react";
 import { 
-  Code2, Layers, Database, ShieldCheck, 
-  Terminal, Cpu, Zap, Activity, Binary, 
-  Globe2, Command, Boxes
+  Code2, Layers, Database, ShieldCheck, Zap, Activity, Binary, 
+  Globe2, Boxes
 } from "lucide-react";
 
 const skillGroups = [

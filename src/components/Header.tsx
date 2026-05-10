@@ -2,7 +2,6 @@
 
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
-import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { AlignRight, X, ArrowUpRight, Terminal } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
@@ -113,6 +112,7 @@ const Header = () => {
                   >
                     {link.name}
                     <span className="text-purple-600">.</span>
+                    <span className="d-none">{i}</span>
                   </Link>
                 ))}
               </nav>
